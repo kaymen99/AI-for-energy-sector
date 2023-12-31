@@ -10,35 +10,41 @@ This repo is dedicated to the development of Machine/Deep Learning models that c
 
 ### 1. Power Demand Forecasting
 
-Predicting power demand accurately is crucial for energy providers to optimize their resources, reduce costs, and ensure uninterrupted supply. AI models can analyze historical data, weather patterns, and other factors to make precise demand forecasts, leading to more efficient energy distribution.
+Accurate power demand forecasting is crucial for energy providers to optimize resources, reduce costs, and ensure uninterrupted supply. Our AI models analyze historical data, weather patterns, and other factors to make precise demand forecasts, leading to more efficient energy distribution.
 
-- Related Notebooks: Power consumption forecast [here](https://github.com/kaymen99/AI-for-energy-sector/blob/main/Power%20%26%20Energy%20Forecast/Power%20consumption%20forecast.ipynb)
+- **Related Notebooks:**
+  - [Power consumption forecast](https://github.com/kaymen99/AI-for-energy-sector/blob/main/Power%20%26%20Energy%20Forecast/Power%20consumption%20forecast.ipynb)
+  - Enefit Predict Energy Behavior of Prosumers - Kaggle competition [link](https://github.com/kaymen99/AI-for-energy-sector/blob/main/Power%20%26%20Energy%20Forecast/Enefit%20Predict%20Energy%20Behavior%20of%20Prosumers.ipynb) (In Progress)
 
 ### 2. Grid Predictive Maintenance
 
-The maintenance of energy grids is an expensive and time-consuming process. With AI, we can develop models that monitor the condition of grid components and predict when maintenance is needed. This proactive approach reduces downtime, improves reliability, and saves costs.
+Maintaining energy grids is expensive and time-consuming. Our AI models monitor grid components, predicting when maintenance is needed. This proactive approach reduces downtime, improves reliability, and saves costs.
 
-- Related Notebooks: Transmission line fault detection [here](https://github.com/kaymen99/AI-for-energy-sector/blob/main/predictive%20maintenance/Transmission%20line%20fault%20detection.ipynb), Wind turbine failure detection [here](https://github.com/kaymen99/AI-for-energy-sector/blob/main/predictive%20maintenance/Wind%20turbine%20failure%20detection.ipynb) (IN Progress)
+- **Related Notebooks:**
+  - [Transmission line fault detection](https://github.com/kaymen99/AI-for-energy-sector/blob/main/predictive%20maintenance/Transmission%20line%20fault%20detection.ipb)
+  - [Wind turbine failure detection](https://github.com/kaymen99/AI-for-energy-sector/blob/main/predictive%20maintenance/Wind%20turbine%20failure%20detection.ipb)
 
 ### 3. Predicting Renewable Energy Power Generation
 
-The energy sector is increasingly shifting towards renewable sources like wind and solar power. Accurate predictions of power generation from weather data are essential for better grid management and integration of renewable energy sources into the grid. AI models can help optimize the use of these resources.
+As the energy sector shifts towards renewable sources, accurate predictions of power generation from weather data are essential. Our AI models optimize the use of renewable resources for better grid management.
 
-- Related Notebooks: Solar energy generation forecast [here](https://github.com/kaymen99/AI-for-energy-sector/blob/main/Power%20%26%20Energy%20Forecast/Solar%20energy%20generation%20forecast.ipynb)
+- **Related Notebooks:**
+  - [Solar energy generation forecast](https://github.com/kaymen99/AI-for-energy-sector/blob/main/Power%20%26%20Energy%20Forecast/Solar%20energy%20generation%20forecast.ipb)
 
 ### 4. Energy Management (in Buildings and Houses)
 
-Efficient energy use is not limited to large-scale infrastructure. AI can assist in optimizing energy consumption within buildings and houses by adjusting heating, cooling, and lighting systems, thereby reducing waste and lowering energy bills.
+Efficient energy use extends beyond large-scale infrastructure. AI optimizes energy consumption within buildings and houses by adjusting heating, cooling, and lighting systems, reducing waste, and lowering energy bills.
 
 ### 5. Smart Grid Stability Prediction
 
-The smart grid of the future will require real-time monitoring and decision-making to ensure its stability. AI models can predict grid stability issues and propose solutions in real time, helping prevent power outages and other disruptions.
+The future smart grid requires real-time monitoring and decision-making for stability. Our AI models predict grid stability issues and propose real-time solutions, preventing power outages and disruptions.
 
-- Related Notebooks: Grid stability prediction [here](https://github.com/kaymen99/AI-for-energy-sector/blob/main/predictive%20maintenance/Grid%20stability%20prediction.ipynb)
+- **Related Notebooks:**
+  - [Grid stability prediction](https://github.com/kaymen99/AI-for-energy-sector/blob/main/predictive%20maintenance/Grid%20stability%20prediction.ipb)
 
 ## Contact
 
-I welcome any contributions whether you're an AI enthusiast, energy sector expert, or developer; your contributions are valuable. Feel free to open issues, submit pull requests, or if you want to collaborate or have any questions, reach out to me: [aymenMir1001@gmail.com](mailto:aymenMir1001@gmail.com).
+Contributions are welcome from AI enthusiasts, energy sector experts, and developers. Whether you want to open issues, submit pull requests, or collaborate, reach out to me: [aymenMir1001@gmail.com](mailto:aymenMir1001@gmail.com).
 
 ## License
 
