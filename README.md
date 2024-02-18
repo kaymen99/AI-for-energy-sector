@@ -14,7 +14,7 @@ Accurate power demand forecasting is crucial for energy providers to optimize re
 
 - **Related Notebooks:**
   - [Power consumption forecast](https://github.com/kaymen99/AI-for-energy-sector/blob/main/Power%20%26%20Energy%20Forecast/Power%20consumption%20forecast.ipynb)
-  - Enefit Predict Energy Behavior of Prosumers - Kaggle competition [link](https://github.com/kaymen99/AI-for-energy-sector/blob/main/Power%20%26%20Energy%20Forecast/Enefit%20Predict%20Energy%20Behavior%20of%20Prosumers.ipynb) (In Progress)
+  - Enefit Predict Energy Behavior of Prosumers - Kaggle competition [link](https://github.com/kaymen99/AI-for-energy-sector/blob/main/Power%20%26%20Energy%20Forecast/Enefit-Predict%20Energy%20Behavior%20of%20Prosumers.ipynb) (In Progress)
 
 ### 2. Grid Predictive Maintenance
 
